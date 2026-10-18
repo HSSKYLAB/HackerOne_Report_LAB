@@ -1,4 +1,4 @@
-# Mozilla Pontoon 저장형 XSS 취약점
+# Mozilla Pontoon 저장형 XSS 취약점 리뷰
 ## 1. 개요
 대상 시스템: Mozilla Pontoon (공개 대시보드)
 
